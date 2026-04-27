@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #f4f4f4;
+  text-align:left;
+}
+h1 {
+  color: red;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h2{
+  font-size: 20px;
+  font-weight: initial;
+  text-transform: uppercase;
+}
+p {
+  color: #333333;
+  text-align: left;
+}
+#nombre{
+    color: black;
+}
+footer{
+    background-color: rgb(204, 202, 202);
+    text-align: center;
+}
+footer nav a:hover {
+    background-color: #e9e8e8;
+}
